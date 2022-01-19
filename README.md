@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dgoldenbaum
-- 👀 I’m interested in api-driven content delivery systems and their relationship with digital marketing
-- 🌱 I am constantly learning
+- 👀 I enjoy building intuitive web & mobile applications
 
 <!---
 dgoldenbaum/dgoldenbaum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
